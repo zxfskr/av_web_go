@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+_ext
+*.py[cod]
+*$py.class
+*.log.*
+*.so
+.coverage
+*.orig
+av_web
